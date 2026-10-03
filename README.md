@@ -1,8 +1,3 @@
-<div align="center">
-<img src="http://github.com/Shivansh3127/Shivansh3127/blob/main/profile2.jpg.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi, I’m Shivansh Agarwal, a Computer Science Engineering student passionate about Software Development, Backend Engineering, Cloud & DevOps. I enjoy building scalable applications, working with Java, C++, JavaScript, Docker, Kubernetes, AWS, and CI/CD, and solving DSA problems.</div>  
   
 
@@ -97,3 +92,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shivansh3127&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
